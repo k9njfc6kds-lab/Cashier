@@ -1,0 +1,20 @@
+
+{
+  "name": "Cashier Sales Management",
+  "short_name": "Cashier",
+  "description": "A simple sales and receipt management application.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101114",
+  "theme_color": "#101114",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
